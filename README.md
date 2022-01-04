@@ -11,4 +11,5 @@ Now open the terminal and use the command to update the file
 xrdb -merge ~/.Xresources
 
 Now you can customize your xterm
+
 Xterm supports w3m
